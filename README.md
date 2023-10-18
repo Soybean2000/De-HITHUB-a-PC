@@ -1,2 +1,1 @@
-# De-HITHUB-a-PC
-Practica para crear un repositorio en HitHub y pasarlo a la PC
+Prueba de como crear un repositorio y clonarlo desde HitHub al escritorio de mi PC
